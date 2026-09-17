@@ -1,0 +1,9 @@
+# WorkBuddy project data (memory, skills, logs) — not part of this repo
+.workbuddy/
+
+# Intermediate scrape artifacts
+all_posts.txt
+
+# Python
+__pycache__/
+*.pyc
